@@ -9,6 +9,8 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-navigation/bottom-tabs": "^6.5.10",
+    "@react-navigation/native": "^6.1.9",
     "@tryterra/terra-ui": "^0.1.0",
     "axios": "^1.5.1",
     "expo": "~49.0.15",
