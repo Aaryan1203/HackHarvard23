@@ -2,9 +2,10 @@ import React from 'react';
 import { View, Text, StyleSheet } from 'react-native';
 
 const Home = () => {
+  const name = "name"
   return (
     <View style={styles.container}>
-      <Text>Home</Text>
+      <Text>Welcome Back {name}</Text>
     </View>
   );
 };

@@ -11,6 +11,7 @@
   "dependencies": {
     "@react-navigation/bottom-tabs": "^6.5.10",
     "@react-navigation/native": "^6.1.9",
+    "@react-navigation/stack": "^6.3.19",
     "@tryterra/terra-ui": "^0.1.0",
     "axios": "^1.5.1",
     "expo": "~49.0.15",
