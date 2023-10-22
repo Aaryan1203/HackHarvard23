@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../src/helpers/timer.ts"],
+  "mappings": "AAAA,MAAM,QAAQ,QAAQ,gBAAgB,EAAE,MAAM;AAE9C,WAAW,MAAM;AACf,QAAM,MAAM;AACd,GAAG,GAAI;AAEA,MAAM,OAAO,MAAM,MAAM;AAAA,EAC9B,OAAO;AACT,CAAC;",
+  "names": []
+}

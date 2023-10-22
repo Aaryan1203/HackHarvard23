@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../src/prevent.tsx"],
+  "mappings": ";;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAO,MAAM,UAAU,CAAC,MAAM,CAAC,EAAE,eAAe,GAAG,EAAE,gBAAgB,CAAC;",
+  "names": []
+}

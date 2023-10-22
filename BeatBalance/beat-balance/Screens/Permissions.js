@@ -1,10 +1,28 @@
-// NewScreen.js
 import React from "react";
 import { View, Text, StyleSheet, Image, TouchableOpacity } from "react-native";
 import { useNavigation } from "@react-navigation/native";
+import { Alert } from "react-native";
 
 const Permissions = () => {
   const navigation = useNavigation();
+
+  const handleAllow = () => {
+    Alert.alert(
+      "Are you sure?",
+      "This will navigate you to the next screen.",
+      [
+        {
+          text: "Cancel",
+          style: "cancel",
+        },
+        {
+          text: "OK",
+          onPress: () => navigation.navigate("Register"),
+        },
+      ],
+      { cancelable: false }
+    );
+  };
 
   return (
     <View style={styles.container}>
@@ -23,10 +41,7 @@ const Permissions = () => {
           usage of Beat Balance and providing personalized music
           recommendations.
         </Text>
-        <TouchableOpacity
-          style={styles.allowButton}
-          onPress={() => navigation.navigate("Permissions")}
-        >
+        <TouchableOpacity style={styles.allowButton} onPress={handleAllow}>
           <Text style={styles.allowText}>Allow</Text>
         </TouchableOpacity>
       </View>

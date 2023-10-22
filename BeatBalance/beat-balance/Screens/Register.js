@@ -27,7 +27,7 @@ const styles = StyleSheet.create({
     color: "#432C81",
     textAlign: "center",
     marginHorizontal: 20,
-    marginTop: 200,
+    marginTop: 150,
   },
   logo: {
     marginTop: 50,

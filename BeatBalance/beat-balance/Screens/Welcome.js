@@ -1,26 +1,22 @@
 import React from "react";
 import { View, Text, StyleSheet, Image, TouchableOpacity } from "react-native";
+import { useNavigation } from "@react-navigation/native";
 
 const WelcomeScreen = () => {
+  const navigation = useNavigation()
+  const handleGetStarted = () => {
+    navigation.navigate("PersonalInfo")
+  }
   return (
     <View style={styles.baseStyle}>
-      <Text style={styles.welcome}>
-        Welcome to
-      </Text>
-      <Text style={styles.beatBalance}>
-        Beat Balance
-      </Text>
-      <Image 
-        source={require("../../assets/BBlogo.png")}
-        style={styles.logo} 
-      />
+      <Text style={styles.welcome}>Welcome to</Text>
+      <Text style={styles.beatBalance}>Beat Balance</Text>
+      <Image source={require("../../assets/BBlogo.png")} style={styles.logo} />
       <Text style={styles.discovering}>
         Discovering the harmony of mood, lifestyle, {"\n"} and music
       </Text>
-      <Text style={styles.wereHere}>
-        We're here to help you balance
-      </Text>
-      <TouchableOpacity>
+      <Text style={styles.wereHere}>We're here to help you balance</Text>
+      <TouchableOpacity onPress={handleGetStarted}>
         <Image
           source={require("../../assets/getStarted.png")}
           style={styles.getStarted}

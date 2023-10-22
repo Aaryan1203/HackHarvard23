@@ -14,9 +14,8 @@ import { useNavigation } from "@react-navigation/native";
 
 const PersonalInfo = () => {
   const navigation = useNavigation();
-  const handleClick = () => {
-    alert("hi");
-    navigation.navigate("Register");
+  const handleNext = () => {
+    navigation.navigate("Permissions");
   };
   return (
     <View style={styles.container}>
@@ -28,7 +27,7 @@ const PersonalInfo = () => {
         <TextInput style={styles.searchInput} placeholder="Age" />
       </View>
       <TouchableOpacity
-        onPress={handleClick}
+        onPress={handleNext}
         style={{ alignSelf: "flex-end", right: 40, marginTop: 50, marginBottom: 70 }}
       >
         <Image source={require("../Images/nextBtn.png")} />

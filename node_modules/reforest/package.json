@@ -1,0 +1,53 @@
+{
+  "name": "reforest",
+  "version": "0.13.0",
+  "description": "Collect ordered React render data seamlessly across the server and client.",
+  "main": "dist/index.js",
+  "module": "dist/esm/index.js",
+  "typings": "dist/index.d.ts",
+  "sideEffects": false,
+  "files": [
+    "dist",
+    "src"
+  ],
+  "scripts": {
+    "prepublishOnly": "pnpm test && pnpm build",
+    "build": "tsup src/index.ts --dts --format esm,cjs --legacy-output",
+    "dev": "pnpm build --watch --sourcemap",
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/souporserious/reforest"
+  },
+  "keywords": [
+    "react",
+    "index",
+    "accessibility",
+    "select",
+    "utility",
+    "list",
+    "tree",
+    "node",
+    "store"
+  ],
+  "author": "Travis Arnold <travis@souporserious.com> (http://souporserious.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/souporserious/reforest/issues"
+  },
+  "homepage": "https://github.com/souporserious/reforest",
+  "peerDependencies": {
+    "react": ">=16.8"
+  },
+  "dependencies": {
+    "performant-array-to-tree": "^1.11.0",
+    "zustand": "^4.3.8"
+  },
+  "devDependencies": {
+    "@jsxui/layout": "^0.1.9",
+    "react": "*",
+    "react-dom": "*"
+  }
+}

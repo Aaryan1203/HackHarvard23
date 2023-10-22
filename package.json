@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "@react-navigation/stack": "^6.3.19",
+    "react-native-dialog": "^9.3.0",
     "tamagui": "^1.74.21"
   }
 }
