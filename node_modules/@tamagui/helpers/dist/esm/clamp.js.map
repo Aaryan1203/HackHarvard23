@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../../src/clamp.ts"],
-  "mappings": "AAAO,SAAS,MAAM,OAAe,CAAC,KAAK,GAAG,GAA6B;AACzE,SAAO,KAAK,IAAI,KAAK,KAAK,IAAI,KAAK,KAAK,CAAC;AAC3C;",
-  "names": []
-}

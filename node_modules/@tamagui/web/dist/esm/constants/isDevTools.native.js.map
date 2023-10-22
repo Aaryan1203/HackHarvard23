@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../../../src/constants/isDevTools.ts"],
-  "mappings": "AAEO,MAAM,cAAc,MAAM;AAC/B,MAAI,QAAQ,IAAI,aAAa;AAC3B,QAAI;AACF,aAAO,IAAI,SAAS,qDAAqD,EAAE;AAAA,IAC7E,QAAQ;AAAA,IAER;AAEF,SAAO;AACT,GAAG;",
-  "names": []
-}

@@ -7,7 +7,7 @@ import Screen2 from './Screen2';
 import Screen3 from './Screen3';
 import Screen4 from './Screen4';
 import Register from './Register';
-import PersonalInfo from './PersonalInfo';
+
 
 const Tab = createBottomTabNavigator();
 const Stack = createStackNavigator();

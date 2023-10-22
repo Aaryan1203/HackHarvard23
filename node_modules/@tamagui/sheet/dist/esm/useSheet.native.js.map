@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../../src/useSheet.tsx"],
-  "mappings": "AAAA,SAAS,uBAAuB;AAEzB,MAAM,WAAW,MAAM,gBAAgB,IAAI,MAAS;",
-  "names": []
-}

@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../../src/constants.tsx"],
-  "mappings": "AAAO,MAAM,cAAc,UACd,iBAAiB,GACjB,wBAAwB,GACxB,yBAAyB,GACzB,aAAa,IACb,qBAAqB,IACrB,gBAAgB;",
-  "names": []
-}

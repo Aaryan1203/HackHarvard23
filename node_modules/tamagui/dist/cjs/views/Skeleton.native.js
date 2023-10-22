@@ -1,2 +1,0 @@
-"use strict";
-//# sourceMappingURL=Skeleton.js.map

@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../../src/Button.test.tsx"],
-  "mappings": "AAAA,4BAAwC,oCACxC,cAA8B,0BAC9B,gBAAuC;AAEvC,MAAM,WAAO,+BAAc,+CAAwB,CAAC;AAAA,IAEpD,wBAAS,UAAU,MAAM;AACvB,0BAAK,OAAO,MAAM;AAChB,8BAAO,EAAI,EAAE,WAAW;AAAA,EAC1B,CAAC;AAWH,CAAC;",
-  "names": []
-}

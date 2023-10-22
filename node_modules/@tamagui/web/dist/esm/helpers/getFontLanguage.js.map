@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../../../src/helpers/getFontLanguage.ts"],
-  "mappings": "AAAO,MAAM,kBAAkB,CAAC,eAC9B,WAAW,SAAS,GAAG,IAAI,WAAW,MAAM,GAAG,EAAE,CAAC,IAAI;",
-  "names": []
-}

@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../../../src/views/TamaguiProvider.server.tsx"],
-  "mappings": "AAAA,SAAS,mBAAmB,kBAAkB;AAEvC,MAAM,kBAAkB;",
-  "names": []
-}

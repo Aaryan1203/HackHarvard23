@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../../../src/helpers/isTamaguiComponent.tsx"],
-  "mappings": "AAEO,SAAS,mBACd,MACA,MAGA;AACA,QAAM,SAAS,MAAO;AACtB,SAAO,GAAQ,WAAW,SAAO,SAAS,OAAO;AACnD;",
-  "names": []
-}

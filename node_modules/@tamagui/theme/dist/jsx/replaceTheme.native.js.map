@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../../src/replaceTheme.ts"],
-  "mappings": "AAEA,SAAS,oBAAoB;AAEtB,SAAS,aAAa;AAAA,EAC3B;AAAA,EACA;AACF,GAGG;AAED,SADa,aAAa,EAAE,MAAM,OAAO,WAAW,IAAM,cAAc,UAAU,CAAC;AAErF;",
-  "names": []
-}

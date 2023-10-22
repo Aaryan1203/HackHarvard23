@@ -1,1 +1,0 @@
-{"version":3,"file":"addTheme.d.ts","sourceRoot":"","sources":["../src/addTheme.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,eAAe,EAAE,WAAW,EAAE,MAAM,cAAc,CAAA;AAIhE,wBAAgB,QAAQ,CAAC,KAAK,EAAE;IAC9B,IAAI,EAAE,MAAM,CAAA;IACZ,KAAK,EAAE,OAAO,CAAC,MAAM,CAAC,MAAM,eAAe,EAAE,GAAG,CAAC,CAAC,CAAA;IAClD,SAAS,CAAC,EAAE,OAAO,CAAA;CACpB;;;;cAEA"}

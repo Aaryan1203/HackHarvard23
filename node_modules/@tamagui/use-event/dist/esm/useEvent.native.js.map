@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../../src/useEvent.ts"],
-  "mappings": "AAAA,SAAS,cAAc;AAIhB,SAAS,SAAgC,UAAiB;AAC/D,SAAO,OAAO,UAAU,cAAc,EAAI;AAC5C;AAEA,MAAM,eAAe,MAAM;AACzB,QAAM,IAAI,MAAM,+CAA+C;AACjE;",
-  "names": []
-}
