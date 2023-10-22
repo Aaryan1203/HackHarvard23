@@ -1,12 +1,12 @@
-import * as React from 'react';
-import { NavigationContainer } from '@react-navigation/native';
-import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
-import { createStackNavigator } from '@react-navigation/stack';
-import Home from './MainStack';
-import Screen2 from './Screen2';
-import Screen3 from './Screen3';
-import Screen4 from './Screen4';
-import Register from './Register';
+import * as React from "react";
+import { NavigationContainer } from "@react-navigation/native";
+import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
+import { createStackNavigator } from "@react-navigation/stack";
+import Home from "./MainStack";
+import Screen2 from "./Screen2";
+import Screen3 from "./Screen3";
+import Screen4 from "./Screen4";
+import Register from "./Register";
 
 const Tab = createBottomTabNavigator();
 const Stack = createStackNavigator();
@@ -26,7 +26,7 @@ const App = () => {
   return (
     <NavigationContainer>
       <Stack.Navigator>
-        <Stack.Screen name="Register" component={Register} /> 
+        <Stack.Screen name="Register" component={Register} />
         <Stack.Screen name="Tabs" component={Tabs} />
       </Stack.Navigator>
     </NavigationContainer>
