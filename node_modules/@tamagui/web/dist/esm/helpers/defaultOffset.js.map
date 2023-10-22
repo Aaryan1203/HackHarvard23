@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../src/helpers/defaultOffset.ts"],
+  "mappings": "AAAO,MAAM,gBAAgB,EAAE,QAAQ,GAAG,OAAO,EAAE;",
+  "names": []
+}

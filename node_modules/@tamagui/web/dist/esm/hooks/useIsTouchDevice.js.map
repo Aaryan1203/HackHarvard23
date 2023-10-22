@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../src/hooks/useIsTouchDevice.tsx"],
+  "mappings": "AAAA,SAAS,aAAa,aAAa;AACnC,SAAS,uBAAuB;AAEzB,MAAM,mBAAmB,MACtB,QAAe,gBAAgB,IAAI,cAAc,KAAzC;",
+  "names": []
+}

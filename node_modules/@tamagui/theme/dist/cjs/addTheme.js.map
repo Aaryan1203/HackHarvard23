@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../src/addTheme.ts"],
+  "mappings": ";;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAEA,yBAA6B;AAEtB,SAAS,SAAS,OAItB;AACD,aAAO,iCAAa,EAAE,GAAG,OAAO,WAAW,IAAM,cAAc,MAAM,CAAC;AACxE;",
+  "names": []
+}

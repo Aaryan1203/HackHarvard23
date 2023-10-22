@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../src/helpers/isObj.ts"],
+  "mappings": "AAAO,MAAM,QAAQ,CAAC,MAAW,KAAK,CAAC,MAAM,QAAQ,CAAC,KAAK,OAAO,KAAM;",
+  "names": []
+}

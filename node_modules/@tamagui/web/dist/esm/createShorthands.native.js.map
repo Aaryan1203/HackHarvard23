@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../src/createShorthands.ts"],
+  "mappings": "AAIO,SAAS,iBAA6C,YAAkB;AAC7E,SAAO,OAAO,OAAO,UAAU;AACjC;",
+  "names": []
+}

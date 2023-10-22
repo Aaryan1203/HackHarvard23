@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "@react-navigation/stack": "^6.3.19"
+    "@react-navigation/stack": "^6.3.19",
+    "tamagui": "^1.74.21"
   }
 }

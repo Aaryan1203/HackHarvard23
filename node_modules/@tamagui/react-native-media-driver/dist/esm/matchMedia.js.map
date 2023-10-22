@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../src/matchMedia.ts"],
+  "mappings": "AAIO,MAAM,aAAyB,WAAW;",
+  "names": []
+}

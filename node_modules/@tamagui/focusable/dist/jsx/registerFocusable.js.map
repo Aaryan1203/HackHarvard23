@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../src/registerFocusable.ts"],
+  "mappings": "AAEO,MAAM,oBAAoB,CAAC,IAAY,UAAqB,MAAM;AAEzE,GAEa,sBAAsB,CAAC,OAAe;AAEnD,GAEa,iBAAiB,CAAC,OAAe;AAE9C;",
+  "names": []
+}

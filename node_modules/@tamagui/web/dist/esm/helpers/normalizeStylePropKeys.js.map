@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../src/helpers/normalizeStylePropKeys.ts"],
+  "mappings": "AAEO,MAAM,yBAAyB,CAAC;",
+  "names": []
+}

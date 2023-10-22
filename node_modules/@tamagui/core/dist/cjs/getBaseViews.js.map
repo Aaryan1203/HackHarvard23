@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../src/getBaseViews.ts"],
+  "mappings": ";;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAO,SAAS,eAAe;AAE7B,SAAO;AACT;",
+  "names": []
+}

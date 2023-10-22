@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../src/updateTheme.ts"],
+  "mappings": "AAEA,SAAS,oBAAoB;AAEtB,SAAS,YAAY;AAAA,EAC1B;AAAA,EACA;AACF,GAGG;AACD,SAAO,aAAa,EAAE,MAAM,OAAO,WAAW,IAAM,cAAc,SAAS,CAAC;AAC9E;",
+  "names": []
+}
